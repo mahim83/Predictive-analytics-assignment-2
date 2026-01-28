@@ -27,7 +27,7 @@ Transformation Parameters
 
 University Roll Number: 102303958
 
-a_r = 0.5 × (r mod 7) = 2.5
+a_r = 0.5 × (r mod 7) = 0.5
 
 b_r = 0.3 × (r mod 5 + 1) = 1.2
 
@@ -205,8 +205,8 @@ The KDE of generated samples is compared with the KDE of real transformed data.
 
 Transformation Parameters
 
-Roll Number : 102353018
-a_r = 2.5
+Roll Number : 102303958
+a_r = 0.5
 b_r = 1.2
 
 
@@ -228,5 +228,5 @@ Mode Coverage: Good
 
 Statistical Measures
 
-KS Statistic      : 0.3762
-Wasserstein Dist. : 11.15
+KS Statistic      : 0.418
+Wasserstein Dist. : 17.19
