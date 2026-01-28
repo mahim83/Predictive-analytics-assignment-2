@@ -25,7 +25,7 @@ x is transformed using the function: z=x+ar​⋅sin(br​⋅x)
 
 Transformation Parameters
 
-University Roll Number: 102353018
+University Roll Number: 102303958
 
 a_r = 0.5 × (r mod 7) = 2.5
 
