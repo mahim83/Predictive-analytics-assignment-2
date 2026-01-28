@@ -198,7 +198,7 @@ Kernel Density Estimation (KDE) is applied to approximate the learned PDF.
 The KDE of generated samples is compared with the KDE of real transformed data.
 
 
-![image alt](https://github.com/mahim83/Predictive-analytics-assignment-2/blob/2358fb8a140a5921844c1b95657aa526f50f222e/pdf.png)
+![image alt](https://github.com/mahim83/Predictive-analytics-assignment-2/blob/42cbebac0625393f3b264f3cd858f9309fcdab84/pdf.png)
 
 
 ## Final Results
